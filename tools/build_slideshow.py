@@ -317,9 +317,18 @@ def main():
     spec = json.load(open(args.spec))
     OUT, PHOTOS = args.out, args.photos
     os.makedirs(OUT, exist_ok=True)
-    a, b = spec["cover_a"], spec["cover_b"]
-    compose_cover("01-cover-A", spec["cover_photo"], a["number"], a["lines"], a["sub"], seed=1)
-    compose_cover_b("01-cover-B", spec["cover_photo"], b["lines"], b["sub"], seed=1)
+    # One hook per slideshow: spec["cover"] = {"type": "listicle"|"question", ...}.
+    # (Legacy specs with cover_a/cover_b still build both as 01-cover-A/B.)
+    if "cover" in spec:
+        c = spec["cover"]
+        if c["type"] == "listicle":
+            compose_cover("01-cover", spec["cover_photo"], c["number"], c["lines"], c["sub"], seed=1)
+        else:
+            compose_cover_b("01-cover", spec["cover_photo"], c["lines"], c["sub"], seed=1)
+    else:
+        a, b = spec["cover_a"], spec["cover_b"]
+        compose_cover("01-cover-A", spec["cover_photo"], a["number"], a["lines"], a["sub"], seed=1)
+        compose_cover_b("01-cover-B", spec["cover_photo"], b["lines"], b["sub"], seed=1)
     reasons = spec["reasons"]
     assert len(reasons) == 5, "exactly 5 reasons (4 unrelated + 1 pivot)"
     for i, r in enumerate(reasons, start=1):
