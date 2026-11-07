@@ -1,0 +1,26 @@
+{
+  "topic": "always hungry on a diet",
+  "cover_photo": "cover.jpg",
+  "cover": {"type": "question", "lines": ["You're eating {less}.", "So why are you", "always hungry?"],
+            "sub": "It's probably not your willpower. See #5."},
+  "reasons": [
+    {"photo": "r1.jpg", "head": "Your food is mostly ultra-processed",
+     "sub": "It's easy to overeat. In one NIH study, people ate about 500 more calories a day on it."},
+    {"photo": "r2.jpg", "head": "You eat way too fast",
+     "sub": "Eating slowly helped people feel fuller while eating fewer calories at the same meal."},
+    {"photo": "r3.jpg", "head": "Your meals have no volume",
+     "sub": "We tend to eat the same amount of food. Veggies and soups fill that space for fewer calories."},
+    {"photo": "r4.jpg", "head": "You're stressed all the time",
+     "sub": "Stress can push you toward sweet food, especially if your body reacts strongly to it."},
+    {"photo": "r5.jpg", "head": "You're cutting harder than you think",
+     "sub": "Without real numbers it's easy to cut way too much, then crash and overeat."}
+  ],
+  "sources": [
+    "https://www.nih.gov/news-events/news-releases/nih-study-finds-heavily-processed-foods-cause-overeating-weight-gain",
+    "https://digitalcommons.uri.edu/nfs_facpubs/141",
+    "https://pubmed.ncbi.nlm.nih.gov/9497184",
+    "https://www.mysportscience.com/post/energy-density-and-weight-management",
+    "https://pubmed.ncbi.nlm.nih.gov/11070333/"
+  ],
+  "photo_ids": ["Qd_XOtnPmnQ", "c8ovzYe3z0s", "R3GZtxhKlMk", "AZ1WqiVMpDI", "KXPIvbxmDes", "PDMKe99gg9c"]
+}

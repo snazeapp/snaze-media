@@ -1,0 +1,27 @@
+{
+  "topic": "muscle not growing despite training",
+  "cover_photo": "cover.jpg",
+  "cover": {"type": "listicle", "number": "5",
+            "lines": ["reasons your muscles", "aren't growing", "(even if you never skip a session)"],
+            "sub": "Number 5 is the one most lifters get wrong."},
+  "reasons": [
+    {"photo": "r1.jpg", "head": "You lift the same weights every week",
+     "sub": "Muscles adapt fast. If the weight or reps never go up, they have no reason to grow."},
+    {"photo": "r2.jpg", "head": "You stop your sets way too early",
+     "sub": "The closer a set gets to failure, the more muscle it tends to build. Easy sets build less."},
+    {"photo": "r3.jpg", "head": "You train each muscle once a week",
+     "sub": "A big review found that hitting each muscle twice a week builds more than once."},
+    {"photo": "r4.jpg", "head": "You're short on sleep",
+     "sub": "In one study, a single night without sleep cut muscle building by 18%."},
+    {"photo": "r5.jpg", "head": "You're not eating enough to grow",
+     "sub": "Muscle needs a small calorie surplus. Eyeballing your meals makes it easy to fall short."}
+  ],
+  "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/19204579/",
+    "https://sciencedaily.com/releases/2024/07/240731140409.htm",
+    "https://pubmed.ncbi.nlm.nih.gov/27102172/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7785053/",
+    "https://www.mdpi.com/2075-4663/7/7/154"
+  ],
+  "photo_ids": ["rbSNsoXk-3A", "sxBt--IMwQc", "U2q73PfHFpM", "03b61PY89hs", "LFHHJP5TTjk", "Za_haKkO0ns"]
+}

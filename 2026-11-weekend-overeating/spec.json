@@ -1,0 +1,24 @@
+{
+  "topic": "weekend overeating undoing the week",
+  "cover_photo": "cover.jpg",
+  "cover": {"type": "listicle", "number": "5",
+            "lines": ["reasons your weekends undo your week", "(even if your weekdays are perfect)"],
+            "sub": "Number 5 is the one nobody notices."},
+  "reasons": [
+    {"photo": "r1.jpg", "head": "Your drinks make you eat more",
+     "sub": "Alcohol doesn't just add calories. It also makes you eat more food at the same meal."},
+    {"photo": "r2.jpg", "head": "You treat Friday night as a free pass",
+     "sub": "One cheat meal turns into a cheat weekend. Two days can quietly wipe out five."},
+    {"photo": "r3.jpg", "head": "Your routine disappears",
+     "sub": "No set meal times means grazing all day, one small bite at a time."},
+    {"photo": "r4.jpg", "head": "You stay up late snacking",
+     "sub": "Late nights mean more hours awake and more trips to the kitchen."},
+    {"photo": "r5.jpg", "head": "You don't see what the weekend costs",
+     "sub": "In one study, dieters lost weight during the week but stopped losing on weekends."}
+  ],
+  "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/30630543/",
+    "https://source.washu.edu/2008/07/weekend-eating-slows-weight-loss-researchers-find/"
+  ],
+  "photo_ids": ["s5Pshf80E-0", "8RMWZqlCbx0", "n65oCIcK3E8", "YwhzwOA3RHY", "Zei3KdH5SDI", "8Nc_oQsc2qQ"]
+}
