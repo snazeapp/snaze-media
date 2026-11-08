@@ -1,0 +1,24 @@
+{
+  "topic": "eating out undoing progress",
+  "cover_photo": "cover.jpg",
+  "cover": {"type": "question", "lines": ["You eat {clean} at home.", "So why does eating", "out undo it all?"],
+            "sub": "It's not just what you order. See #5."},
+  "reasons": [
+    {"photo": "r1.jpg", "head": "You show up starving",
+     "sub": "Saving up all day for dinner out means you order more and eat faster."},
+    {"photo": "r2.jpg", "head": "You eat with a big group",
+     "sub": "Eating with just one other person can make a meal 44% bigger, and more people means more."},
+    {"photo": "r3.jpg", "head": "You finish whatever they serve",
+     "sub": "In one study, people ate 30% more from a bigger portion and didn't feel any fuller."},
+    {"photo": "r4.jpg", "head": "Dessert feels like part of the deal",
+     "sub": "It's a night out, so dessert and a drink feel earned, even after a big meal."},
+    {"photo": "r5.jpg", "head": "You can't see the butter and oil",
+     "sub": "In one study, diners underestimated their meals, and the bigger the meal, the bigger the miss."}
+  ],
+  "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/9155493/",
+    "https://www.sciencedaily.com/releases/2002/12/021204081430.htm",
+    "https://pubmed.ncbi.nlm.nih.gov/23704170/"
+  ],
+  "photo_ids": ["oAfV-hFL620", "hA1onGXB3fY", "U3zasaqWD-I", "OUEtL0O1GeM", "W1TOhhlbQpw", "C9yi5AAPIKc"]
+}

@@ -1,0 +1,23 @@
+{
+  "topic": "late-night snacking",
+  "cover_photo": "cover.jpg",
+  "cover": {"type": "question", "lines": ["You eat {well} all day.", "So why do your", "nights fall apart?"],
+            "sub": "It's not about willpower. Most people miss #5."},
+  "reasons": [
+    {"photo": "r1.jpg", "head": "You barely eat during the day",
+     "sub": "Skipping meals all day leaves you starving by evening, and that's when it all comes back."},
+    {"photo": "r2.jpg", "head": "You snack in front of a screen",
+     "sub": "Eating while distracted makes you eat more, and even more at your next snack."},
+    {"photo": "r3.jpg", "head": "You stay up way too late",
+     "sub": "In one study, people kept up late ate about 550 extra calories in those late hours."},
+    {"photo": "r4.jpg", "head": "Food is how you unwind",
+     "sub": "After a long day, snacking turns into the reward, even when you're not hungry."},
+    {"photo": "r5.jpg", "head": "You never count the bites",
+     "sub": "A handful here, a spoonful there. Night snacks add up fast and almost never get counted."}
+  ],
+  "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/23446890/",
+    "https://pubmed.ncbi.nlm.nih.gov/23814334/"
+  ],
+  "photo_ids": ["xK8QreBEjcc", "KB_S-Vlku30", "c-TmYw917So", "dD1B13K2_Ps", "N0m8evXqvTs", "STTkqGm8078"]
+}

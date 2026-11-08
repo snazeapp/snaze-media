@@ -1,0 +1,26 @@
+{
+  "topic": "drink and alcohol calories",
+  "cover_photo": "cover.jpg",
+  "cover": {"type": "listicle", "number": "5",
+            "lines": ["reasons your drinks stall fat loss", "(even if you eat clean)"],
+            "sub": "Number 5 is the one nobody counts."},
+  "reasons": [
+    {"photo": "r1.jpg", "head": "Liquid calories don't fill you up",
+     "sub": "Calories from soda don't make you eat less later. They just stack on top."},
+    {"photo": "r2.jpg", "head": "Alcohol puts fat burning on pause",
+     "sub": "Your body burns alcohol first. In one study, fat burning dropped 73% after a couple of drinks."},
+    {"photo": "r3.jpg", "head": "You drink your fruit instead of eating it",
+     "sub": "Whole fruit fills you up. In one study, a whole apple curbed lunch better than apple juice."},
+    {"photo": "r4.jpg", "head": "Your nightcap is wrecking your sleep",
+     "sub": "Alcohol helps you doze off, then breaks up your sleep in the second half of the night."},
+    {"photo": "r5.jpg", "head": "You never count what's in your cup",
+     "sub": "Lattes, smoothies, a few beers. Drinks add up all week and almost never get logged."}
+  ],
+  "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/10878689/",
+    "https://pubmed.ncbi.nlm.nih.gov/10539756/",
+    "https://pubmed.ncbi.nlm.nih.gov/19110020/",
+    "https://pubmed.ncbi.nlm.nih.gov/23347102/"
+  ],
+  "photo_ids": ["eWGUpSZzQAg", "0iYgMT7lH7E", "suW4j56yfhE", "mg-nis40DqU", "aaSmG4bj25I", "765Ogj6zVuI"]
+}
