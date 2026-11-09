@@ -1,0 +1,26 @@
+{
+  "topic": "protein myths",
+  "cover_photo": "cover.jpg",
+  "cover": {"type": "listicle", "number": "5",
+            "lines": ["protein myths stalling your gains", "(even if you never miss a shake)"],
+            "sub": "Number 5 is the one almost every lifter falls for."},
+  "reasons": [
+    {"photo": "r1.jpg", "head": "You think your body can only use 30g at once",
+     "sub": "In one study, the body kept using protein from a big meal for hours, with no clear upper limit."},
+    {"photo": "r2.jpg", "head": "You think timing matters most",
+     "sub": "In one study, protein before or after training gave the same results, so don't stress the clock."},
+    {"photo": "r3.jpg", "head": "You think plant protein can't build muscle",
+     "sub": "A review found soy protein built as much strength and muscle as whey and other animal protein."},
+    {"photo": "r4.jpg", "head": "You think protein will wreck your kidneys",
+     "sub": "A review of 28 studies found no sign that high-protein diets harm healthy kidneys."},
+    {"photo": "r5.jpg", "head": "You guess how much protein you eat",
+     "sub": "Without adding it up, you can't tell if you hit your target or fell way short."}
+  ],
+  "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/38118410/",
+    "https://peerj.com/articles/2825",
+    "https://pubmed.ncbi.nlm.nih.gov/29722584/",
+    "https://news.mcmaster.ca/myth-busted-researchers-show-that-a-high-protein-diet-does-not-affect-kidney-function/"
+  ],
+  "photo_ids": ["M3hyq26WR4U", "VpSwmt0-FMQ", "ebFiXXMDoas", "v-FEQ98svDg", "wXd6RQfAbAI", "orgDZeGJ4bw"]
+}

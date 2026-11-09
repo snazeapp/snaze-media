@@ -11,3 +11,6 @@ One line per slideshow, newest last. Daily task reads this to avoid repeating to
 | 2026-11-08 | 2026-11-late-night-snacking | late-night snacking | Question: You eat well all day. So why do your nights fall apart? | - | xK8QreBEjcc, KB_S-Vlku30, c-TmYw917So, dD1B13K2_Ps, N0m8evXqvTs, STTkqGm8078 |
 | 2026-11-08 | 2026-11-drink-calories | drink and alcohol calories | Listicle: 5 reasons your drinks stall fat loss | - | eWGUpSZzQAg, 0iYgMT7lH7E, suW4j56yfhE, mg-nis40DqU, aaSmG4bj25I, 765Ogj6zVuI |
 | 2026-11-08 | 2026-11-eating-out | eating out undoing progress | Question: You eat clean at home. So why does eating out undo it all? | - | oAfV-hFL620, hA1onGXB3fY, U3zasaqWD-I, OUEtL0O1GeM, W1TOhhlbQpw, C9yi5AAPIKc |
+| 2026-11-09 | 2026-11-holiday-eating | holiday season eating | Listicle: 5 reasons the holidays wreck your diet | - | HCFqhYC_Hvw, V6v-ksxpcwM, kID9sxbJ3BQ, z6NPKiub_WU, Ds-PO-WYq6o, 7knnM5esnyY |
+| 2026-11-09 | 2026-11-meal-prep | meal prep mistakes | Question: You meal prep on Sundays. So why isn't it paying off? | - | w0JzqJZYX_E, zXNC_lBBVGE, qm7_WKNU19U, F5G4YTN5uEQ, jgcdPKkEcy4, 4QXE7YQy7eo |
+| 2026-11-09 | 2026-11-protein-myths | protein myths | Listicle: 5 protein myths stalling your gains | - | M3hyq26WR4U, VpSwmt0-FMQ, ebFiXXMDoas, v-FEQ98svDg, wXd6RQfAbAI, orgDZeGJ4bw |

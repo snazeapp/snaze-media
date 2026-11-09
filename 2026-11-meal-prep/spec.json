@@ -1,0 +1,23 @@
+{
+  "topic": "meal prep mistakes",
+  "cover_photo": "cover.jpg",
+  "cover": {"type": "question", "lines": ["You {meal prep} on Sundays.", "So why isn't it", "paying off?"],
+            "sub": "The containers aren't the problem. See #5."},
+  "reasons": [
+    {"photo": "r1.jpg", "head": "You prep the same meal every week",
+     "sub": "The same chicken and rice gets old fast, so by Wednesday you're ordering takeout."},
+    {"photo": "r2.jpg", "head": "Your prep only covers lunch",
+     "sub": "Breakfast and dinner are left to chance, and that's where the plan falls apart."},
+    {"photo": "r3.jpg", "head": "Your food goes bad by Thursday",
+     "sub": "Cooked food only keeps 3 to 4 days in the fridge, so Friday's box ends up in the trash."},
+    {"photo": "r4.jpg", "head": "You never plan your snacks",
+     "sub": "When hunger hits at 3 p.m., the vending machine beats the box in your bag."},
+    {"photo": "r5.jpg", "head": "You eyeball every portion",
+     "sub": "Scooping rice, oil and sauce by eye means every box can hold way more than you think."}
+  ],
+  "sources": [
+    "https://www.foodsafety.gov/blog/thanksgiving-leftovers-safe-keeping-weekend-grazing",
+    "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety"
+  ],
+  "photo_ids": ["w0JzqJZYX_E", "zXNC_lBBVGE", "qm7_WKNU19U", "F5G4YTN5uEQ", "jgcdPKkEcy4", "4QXE7YQy7eo"]
+}

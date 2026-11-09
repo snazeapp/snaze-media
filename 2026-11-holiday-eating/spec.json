@@ -1,0 +1,25 @@
+{
+  "topic": "holiday season eating",
+  "cover_photo": "cover.jpg",
+  "cover": {"type": "listicle", "number": "5",
+            "lines": ["reasons the holidays wreck your diet", "(even when you start out strong)"],
+            "sub": "Number 5 is sitting on every holiday plate."},
+  "reasons": [
+    {"photo": "r1.jpg", "head": "Your workouts vanish from the calendar",
+     "sub": "Travel, parties and short days push training aside, and one skipped week easily turns into four."},
+    {"photo": "r2.jpg", "head": "Your stress is through the roof",
+     "sub": "Stress pulls you toward comfort food, the rich and sugary kind, not the veggies."},
+    {"photo": "r3.jpg", "head": "You've already written off December",
+     "sub": "Promising to start fresh in January turns a few treats into six weeks off."},
+    {"photo": "r4.jpg", "head": "You think the extra pound will come off",
+     "sub": "The average holiday gain is about a pound, and an NIH study found it usually stays on all year."},
+    {"photo": "r5.jpg", "head": "You have no idea what's on your plate",
+     "sub": "Butter, cream and sugar hide in every holiday dish, so even a small plate is a total guess."}
+  ],
+  "sources": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC5852752/",
+    "https://www.nichd.nih.gov/newsroom/releases/holidayweightgain",
+    "https://pubmed.ncbi.nlm.nih.gov/10727591/"
+  ],
+  "photo_ids": ["HCFqhYC_Hvw", "V6v-ksxpcwM", "kID9sxbJ3BQ", "z6NPKiub_WU", "Ds-PO-WYq6o", "7knnM5esnyY"]
+}
